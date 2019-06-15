@@ -9,7 +9,7 @@ float altura;
     
 
 
-  Console.WriteLine("Esse é um software que formata trovas :) Antes de iniciarmos, você precisa se cadastrar. Vamos lá: ");
+  Console.WriteLine("Esse Ã© um software que formata trovas :) Antes de iniciarmos, vocÃª precisa se cadastrar. Vamos lÃ¡: ");
    
   Console.WriteLine("Informe o seu nome: ");
       
@@ -23,7 +23,7 @@ float altura;
 
    
      
-  Console.WriteLine("Só por curiosidade... qual é a sua altura?");
+  Console.WriteLine("SÃ³ por curiosidade... qual Ã© a sua altura?");
       
   altura = float.Parse(Console.ReadLine());
 
@@ -32,7 +32,7 @@ float altura;
   Console.WriteLine();
       
 
-  Console.WriteLine("Pronto! Agora nós iremos formatar a sua trova.");
+  Console.WriteLine("Pronto! Agora nÃ³s iremos formatar a sua trova.");
        
   Console.WriteLine("Informe a primeira frase da trova: ");
      
@@ -52,7 +52,7 @@ float altura;
 
   
        
-  Console.WriteLine("Informe a quarta e última frase da trova: ");
+  Console.WriteLine("Informe a quarta e Ãºltima frase da trova: ");
         
   linha4 = Console.ReadLine();
 
