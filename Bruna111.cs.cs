@@ -9,7 +9,7 @@
 
 
 
- void cadastrar( );
+ void cadastrar( )
 
   { 
  
